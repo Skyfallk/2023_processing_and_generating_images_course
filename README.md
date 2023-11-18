@@ -27,3 +27,9 @@
 2. Jakub Langr, Vladimir Bok: GANs in action
 3. YAJIE CUI, ZHAOXIANG LIU, AND SHIGUO LIAN: A Survey on Unsupervised Anomaly Detection Algorithms for Industrial Images
 4. A Cookbook of Self-Supervised Learning
+
+### Навигация
+- intro_to_generative --- вводная лекция про индустрию генеративного моделирования
+- classification_and_segmentation --- лекция по классификации и сегментации, примеры реализации классификатора картинок через многослойный перцептрон и сверточную сеть
+- object_detection --- лекция по детекции объектов
+- practise_1 --- требования к выполнению домашних заданий, ДЗ №1
