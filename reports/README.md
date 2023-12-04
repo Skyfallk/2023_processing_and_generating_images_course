@@ -8,8 +8,8 @@
 |[Non-Visible Light Data Synthesis and Application: A Case Study for Synthetic Aperture Radar Imagery](https://arxiv.org/pdf/2311.17486.pdf) | | |
 |[SemiVL: Semi-Supervised Semantic Segmentation with Vision-Language Guidance](https://arxiv.org/pdf/2311.16241.pdf) | | |
 |[Unleashing the Power of Prompt-driven Nucleus Instance Segmentation](https://arxiv.org/pdf/2311.15939.pdf)| | |
-|[U-NET V2: RETHINKING THE SKIP CONNECTIONS OF U-NET FOR MEDICAL IMAGE SEGMENTATION](https://arxiv.org/pdf/2311.17791.pdf) | | |
-|[Align your Latents:High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2304.08818.pdf) | | |
+|[U-NET V2: RETHINKING THE SKIP CONNECTIONS OF U-NET FOR MEDICAL IMAGE SEGMENTATION](https://arxiv.org/pdf/2311.17791.pdf) | х | Тисленко М., Китаев С. |
+|[Align your Latents:High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2304.08818.pdf) | х | Волгина А. |
 |[Adversarial Diffusion Distillation](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/65663480a92fba51d0e1023f/1701197769659/adversarial_diffusion_distillation.pdf) | | |
 |[Do text-free diffusion models learn discriminative visual representations?](https://arxiv.org/pdf/2311.17921.pdf) | | |
 |[SCL-VI: Self-supervised Context Learning for Visual Inspection of Industrial Defects](https://arxiv.org/pdf/2311.06504.pdf)| | |
