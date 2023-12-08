@@ -2,7 +2,7 @@
 
 | Тема | Свободна | Состав группы |
 | ----------- | ----------- |-----------|
-| [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/pdf/2105.04206.pdf) | | |
+| [You Only Learn One Representation: Unified Network for Multiple Tasks](https://arxiv.org/pdf/2105.04206.pdf) | х |Ворков Н., Семина А. |
 |[U-Net v2: Rethinking the Skip Connections of U-Net for Medical Image Segmentation](https://arxiv.org/pdf/2311.17791.pdf) | | |
 |[DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/pdf/2305.06225v1.pdf) | | |
 |[Non-Visible Light Data Synthesis and Application: A Case Study for Synthetic Aperture Radar Imagery](https://arxiv.org/pdf/2311.17486.pdf) | | |
@@ -12,7 +12,7 @@
 |[Align your Latents:High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2304.08818.pdf) | х | Волгина А. |
 |[Adversarial Diffusion Distillation](https://static1.squarespace.com/static/6213c340453c3f502425776e/t/65663480a92fba51d0e1023f/1701197769659/adversarial_diffusion_distillation.pdf) | | |
 |[Do text-free diffusion models learn discriminative visual representations?](https://arxiv.org/pdf/2311.17921.pdf) | | |
-|[SCL-VI: Self-supervised Context Learning for Visual Inspection of Industrial Defects](https://arxiv.org/pdf/2311.06504.pdf)| | |
+|[SCL-VI: Self-supervised Context Learning for Visual Inspection of Industrial Defects](https://arxiv.org/pdf/2311.06504.pdf)| х |Ионов т., Шопхоев Д.|
 |[Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics ](https://arxiv.org/pdf/2311.06654.pdf)| | |
 
 ### Требования к докладу
